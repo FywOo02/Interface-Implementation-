@@ -1,2 +1,2 @@
 # Interface-Implementation-
-Use animal interface to apply interface implementation
+Use Dog interface to apply interface implementation
